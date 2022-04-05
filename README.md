@@ -1,2 +1,4 @@
-# HTML-CSS
-Projetos em HTML5 e CSS3 que mostram alguns testes e desafios para o desenvolvimento web.
+<h1 align="center">HTML e CSS</h1>
+Projetos de desenvolvimento web que mostram meu desenvolvimento nessa linguagem.
+<hr />
+<p>Atualmente há apenas alguns dos desafios HTML e CSS que me foram feitos.</p>
